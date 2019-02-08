@@ -1,4 +1,4 @@
-import * as Koa from 'koa';
+// import * as Koa from 'koa';
 
 import { routes } from './routes/routes';
 
